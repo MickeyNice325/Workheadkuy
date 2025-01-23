@@ -23,16 +23,16 @@ class ProfilePage extends StatelessWidget {
                   const SizedBox(height: 20),
                   CircleAvatar(
                     radius: 60,
-                    backgroundImage: AssetImage("assets/images/profile.jpg"), // ใช้รูปจาก assets
+                    backgroundImage: AssetImage("assets/images/558c1d60-0065-4ce6-bd08-d83ccb573da8-1672016999150.jpg"), // ใช้รูปจาก assets
                   ),
                   const SizedBox(height: 16),
                   const Text(
-                    "John Doe", // เปลี่ยนเป็นชื่อผู้ใช้จริง
+                    "Nattapong Wonsaeng", // เปลี่ยนเป็นชื่อผู้ใช้จริง
                     style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
                   ),
                   const SizedBox(height: 8),
                   const Text(
-                    "johndoe@example.com", // เปลี่ยนอีเมลเป็นข้อมูลจริง
+                    "stu66309010040@lannapoly.ac.th", // เปลี่ยนอีเมลเป็นข้อมูลจริง
                     style: TextStyle(fontSize: 16, color: Colors.grey),
                   ),
                 ],
